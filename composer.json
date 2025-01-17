@@ -14,6 +14,7 @@
         "laravel/framework": "^11.31",
         "laravel/sanctum": "^4.0",
         "laravel/tinker": "^2.9",
+        "stancl/tenancy": "dev-master",
         "tightenco/ziggy": "^2.0"
     },
     "require-dev": {
@@ -73,6 +74,6 @@
             "php-http/discovery": true
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true
 }
